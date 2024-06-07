@@ -12,3 +12,5 @@ Podras conversar con codigo binario
 Un ciclo que te pregunta si quieres continuar presiona la tecla "1" 
 
 ![Captura de pantalla 2024-06-07 155035](https://github.com/Nova1lc/TextABinary/assets/141974150/0cbd0f01-23c6-4800-ace5-5005f939b35d)
+
+NOTA No nos hacemos responsable del mal uso que le den
